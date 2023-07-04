@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "http://localhost:9000/public/static/css/main.acfdf551.css",
+    "main.js": "http://localhost:9000/public/static/js/main.335a6abe.js",
+    "static/media/gijon_wallpaper.jpg": "http://localhost:9000/public/static/media/gijon_wallpaper.8710bd2735ed0d53ff77.jpg",
+    "index.html": "http://localhost:9000/public/index.html",
+    "main.acfdf551.css.map": "http://localhost:9000/public/static/css/main.acfdf551.css.map",
+    "main.335a6abe.js.map": "http://localhost:9000/public/static/js/main.335a6abe.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.acfdf551.css",
+    "static/js/main.335a6abe.js"
+  ]
+}
